@@ -3,7 +3,8 @@ Kelompok 5
 2. Syifa Alin Anufy
 3. T Syarifah Gita Azzahra
 
-PERUBAHAN PADA UTS
+UTS PRAKTIKUM
+PERUBAHAN YANG KAMI LAKUKAN
 1. Efek Scroll Navbar
 Perubahan: Menambahkan perubahan warna latar belakang dan efek bayangan pada navbar saat scroll melewati 40px.
 Alasan: Meningkatkan visibilitas navbar dan memberikan kesan modern saat pengguna menggulir halaman.
